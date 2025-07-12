@@ -1,4 +1,4 @@
-# 🚀 Azal - Solana Memecoin Trading Platform
+# 🚀 Azal - Solana Memecoin Trading Platform Frontend
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15+-black.svg)
