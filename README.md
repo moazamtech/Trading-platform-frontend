@@ -1,7 +1,7 @@
 # 🚀 Azal - Solana Memecoin Trading Platform
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Next.js](https://img.shields.io/badge/Next.js-13+-black.svg)
+![Next.js](https://img.shields.io/badge/Next.js-15+-black.svg)
 ![Solana](https://img.shields.io/badge/Solana-Blockchain-purple.svg)
 
 > A slick, open-source frontend for swapping Solana memecoins. Fast, fun, and fully on-chain. Degens welcome! 🎯
